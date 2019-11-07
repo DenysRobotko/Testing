@@ -6,6 +6,8 @@ namespace Testing
     {
         static void Main(string[] args)
         {
+            NewClass.age = 15;
+
             Console.WriteLine("Hello World!");
         }
     }
